@@ -3,7 +3,7 @@ var config = {}
 
 // your telegram API credentials
 // please go to https://my.telegram.org to create your API credentials
-config.telegramApiId = 123456789;
+config.telegramApiId = 6922488888;
 config.telegramApiHash = '';
 
 
